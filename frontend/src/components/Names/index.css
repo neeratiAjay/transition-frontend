@@ -1,0 +1,46 @@
+.ul-names-container{
+list-style-type: none;
+display: flex;
+align-items: center;
+width: 100%;
+margin-left: 0;
+padding: 0;
+}
+.names-list-item{
+    margin:10px;
+    padding: 8px 12px 8px 12px;
+    border-radius: 10px 10px 0px 0px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 180px;
+    height: 48px;
+}
+.name-circle{
+    text-align: center;
+    height:48px;
+    width:48px;
+    border-radius: 1px solid #4C62921A;
+    border-radius:50px;
+    background-color:#EEF0F5;
+}
+.circle-text{
+font-family: Inter;
+font-size: 15.75px;
+font-weight: 700;
+text-align: center;
+color: #D7AF48;
+
+}
+.names-text{
+font-family: Inter;
+font-size: 14px;
+font-weight: 600;
+color: #0F1729;
+
+}
+.light-blue{
+    color: #4C6292;
+
+}
